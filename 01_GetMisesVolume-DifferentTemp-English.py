@@ -7,10 +7,10 @@ import csv
 
 # amend parameter ===============================================================================================
 # Modify the working directory to the folder where the odb file is located
-os.chdir(r"C:\temp\45-30")
+os.chdir(r"C:\temp")
 
 # Modify “odbName” 
-odbName = '45-30-30.odb'
+odbName = '15-7.odb'
 # Modify “instName”
 instName = 'PART-1-1'
 # List all the frames to be extracted in the frame_index_list table

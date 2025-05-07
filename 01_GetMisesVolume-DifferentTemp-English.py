@@ -7,7 +7,7 @@ import csv
 
 # amend parameter ===============================================================================================
 # Modify the working directory to the folder where the odb file is located
-os.chdir(r"D:\temp_results\45-30")
+os.chdir(r"C:\temp\45-30")
 
 # Modify “odbName” 
 odbName = '45-30-30.odb'
